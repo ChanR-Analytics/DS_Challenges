@@ -8,5 +8,3 @@ chdir("data_processing/challenge1/")
 df = pd.read_csv("challenge1.csv")
 
 df.head()
-
- 
